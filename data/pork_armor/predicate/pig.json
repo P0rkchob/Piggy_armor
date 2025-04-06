@@ -1,0 +1,36 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "head": {
+        "components": {
+          "minecraft:custom_data": {
+            "pork_armor.pig": true
+          }
+        }
+      },
+      "chestplate": {
+        "components": {
+          "minecraft:custom_data": {
+            "pork_armor.pig": true
+          }
+        }
+      },
+      "leggings": {
+        "components": {
+          "minecraft:custom_data": {
+            "pork_armor.pig": true
+          }
+        }
+      },
+      "feet": {
+        "components": {
+          "minecraft:custom_data": {
+            "pork_armor.pig": true
+          }
+        }
+      }
+    }
+  }
+}

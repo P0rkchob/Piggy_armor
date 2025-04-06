@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:diamond"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "pork_armor:pig_helmet",
+      "pork_armor:pig_chestplate",
+      "pork_armor:pig_leggings",
+      "pork_armor:pig_boots"
+         ]
+  }
+}
